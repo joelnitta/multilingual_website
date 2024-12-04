@@ -1,8 +1,9 @@
 project:
   type: website
+  output-dir: docs
 
 website:
-  title: "multilingual_website"
+  title: "多言語サイト"
   navbar:
     left:
       - index.qmd
@@ -25,7 +26,7 @@ babelquarto:
     text: "日本語"
   mainlanguage: 'ja'
   languages: ['en']
-title-en: Test Site
-description-en: My test website
+title-en: Multilingual Website
+description-en: Demo of a multilingual website
 author-en: Joel Nitta
 lang: ja

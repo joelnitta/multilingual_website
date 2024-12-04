@@ -1,5 +1,5 @@
 ---
-title: "multilingual_website"
+title: "Example"
 ---
 
 This is a Quarto website.
