@@ -1,7 +1,7 @@
 ---
-title: "multilingual_website"
+title: "例"
 ---
 
-This is a Quarto website.
+これは Quarto のウェブサイトです。
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+Quarto のウェブサイトについて詳しく知りたい場合は、<https://quarto.org/docs/websites> をご覧ください。
