@@ -18,15 +18,14 @@ format:
 
 
 babelquarto:
-  languagelinks: navbar
   languagecodes:
   - name: en
-    text: "Version in en"
+    text: "English"
   - name: ja
-    text: "Version in ja"
+    text: "日本語"
   mainlanguage: 'ja'
   languages: ['en']
-title-en: title in en
-description-en: description in en
-author-en: author in en
+title-en: Test Site
+description-en: My test website
+author-en: Joel Nitta
 lang: ja
