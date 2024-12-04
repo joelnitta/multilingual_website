@@ -4,6 +4,7 @@ project:
 
 website:
   title: "多言語サイト"
+  site-url: https://joelnitta.github.io/multilingual_website/
   navbar:
     left:
       - index.qmd
