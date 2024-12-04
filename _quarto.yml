@@ -2,12 +2,10 @@ project:
   type: website
 
 website:
-  site-url: https://example.com
   title: "multilingual_website"
   navbar:
     left:
-      - href: index.qmd
-        text: Home
+      - index.qmd
       - about.qmd
 
 format:
